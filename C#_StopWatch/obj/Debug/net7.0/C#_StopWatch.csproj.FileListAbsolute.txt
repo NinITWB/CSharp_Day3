@@ -1,0 +1,15 @@
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\bin\Debug\net7.0\C#_StopWatch.exe
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\bin\Debug\net7.0\C#_StopWatch.deps.json
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\bin\Debug\net7.0\C#_StopWatch.runtimeconfig.json
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\bin\Debug\net7.0\C#_StopWatch.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\bin\Debug\net7.0\C#_StopWatch.pdb
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.csproj.AssemblyReference.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.AssemblyInfoInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.AssemblyInfo.cs
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.csproj.CoreCompileInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\refint\C#_StopWatch.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.pdb
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\C#_StopWatch.genruntimeconfig.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_StopWatch\obj\Debug\net7.0\ref\C#_StopWatch.dll

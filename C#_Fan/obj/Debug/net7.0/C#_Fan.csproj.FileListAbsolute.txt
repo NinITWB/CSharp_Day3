@@ -1,0 +1,15 @@
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\bin\Debug\net7.0\C#_Fan.exe
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\bin\Debug\net7.0\C#_Fan.deps.json
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\bin\Debug\net7.0\C#_Fan.runtimeconfig.json
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\bin\Debug\net7.0\C#_Fan.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\bin\Debug\net7.0\C#_Fan.pdb
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.csproj.AssemblyReference.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.AssemblyInfoInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.AssemblyInfo.cs
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.csproj.CoreCompileInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\refint\C#_Fan.dll
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.pdb
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\C#_Fan.genruntimeconfig.cache
+E:\Nin-IT\C#-Project\Assignment_Day3\C#_Fan\obj\Debug\net7.0\ref\C#_Fan.dll
